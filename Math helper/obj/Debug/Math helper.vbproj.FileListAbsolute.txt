@@ -1,0 +1,26 @@
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Area_Circle.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Area_Rectangle.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Area_Triangle.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.BaseForm.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Distance_Convert.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.HomeForm.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Line_Calculate.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Resources.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Quadratic_Equation.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Quadratic_Form.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Volume_Cylinder.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Volume_3_Pyramid.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math_helper.Volume_Sphere.resources
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.vbproj.GenerateResource.Cache
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.exe
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.xml
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.pdb
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.exe.config
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.vbprojResolveAssemblyReference.cache
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.exe.manifest
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.application
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.exe
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.pdb
+C:\1Projects\Math helper\Math helper\bin\Debug\Math helper.xml
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.exe.manifest
+C:\1Projects\Math helper\Math helper\obj\Debug\Math helper.application
